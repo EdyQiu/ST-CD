@@ -35,10 +35,4 @@ ST-CD is plug-and-play, requires no retraining, and consistently improves robust
 - [ ] Release reproducibility instructions
 - [ ] Release checkpoints / logs / examples
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/ST-CD.git
-cd ST-CD
