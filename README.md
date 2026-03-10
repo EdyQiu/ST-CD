@@ -18,6 +18,8 @@ ST-CD is plug-and-play, requires no retraining, and consistently improves robust
   <img src="assets/framework.png" width="85%">
 </p>
 
+
+
 ## Highlights
 
 - **Corruption-centric analysis** of LVLM robustness through **shape** and **texture** dimensions
